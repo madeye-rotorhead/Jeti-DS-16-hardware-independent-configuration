@@ -1,4 +1,4 @@
-# Jeti-DS-16 hardware independent configuration
+# Jeti DS-16 hardware independent configuration
 
 This is where it all started: https://www.helifreak.com/showthread.php?t=808591
 
